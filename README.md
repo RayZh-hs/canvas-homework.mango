@@ -1,6 +1,8 @@
-# Canvas Homework Manager
+# Canvas Homework Manager Template
 
-This mango submodule facilitates automatic discovery, downloading, preambling and submission of homework distributed on canvas.
+This template facilitates automatic discovery, downloading, preambling and submission of homework distributed on canvas. Choose "Use this template" on github to create your own repository, and fill in functions in `.mango/settings.py` to customize behavior for a single course. This indirection is needed because each course may have different conventions for how homeworks are distributed.
+
+After you are done, use your repository as a mango template to initialize a local homework manager, advisably in a dedicated course directory.
 
 ## Commands
 
